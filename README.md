@@ -1,6 +1,6 @@
 # rockyou
 
-<img width="640" alt="rockyousocial" src="https://user-images.githubusercontent.com/70972101/188288287-7627d8bd-5592-47a3-80fb-7712d25f9c0e.png">
+![rockyou](https://user-images.githubusercontent.com/70972101/188288760-6d51c70b-14d0-4b32-a82a-c13ffd2f4925.gif)
 
 rockyou.txt wordlist
 
